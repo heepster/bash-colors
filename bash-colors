@@ -2,11 +2,6 @@
 
 # Usage:
 #
-# This prints out "Hi" in blue
-#
-# $ source bash-colors
-# $ echo "$BLUE Hi"
-#
 # I use this in my .bash_profile like so:
 #
 # if [ -f ~/.bash-colors ]; then
